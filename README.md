@@ -1,1 +1,1 @@
-My first Readme is finally edited
+My first Readme is very informative
